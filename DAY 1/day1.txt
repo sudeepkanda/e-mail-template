@@ -3,4 +3,4 @@ date: 15/01/2024
 project ideation and requirements collection
 <h1>skills needed : HTML & CSS +working of mail </h1>
 started HTML from Apna College
-created <a href DAY 1/level1.html>level1.html</a> aand level2.html
+created level1.html and level2.html
