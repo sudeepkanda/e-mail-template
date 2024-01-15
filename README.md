@@ -1,2 +1,2 @@
 # e-mail-template
-H1>creating email template using HTML & CSS ./H1>
+<H1>creating email template using HTML & CSS .</H1>
