@@ -1,0 +1,10 @@
+1. layout techniques : header,footer,main
+2. main-->section arcticle,aside
+3. anchor tags href/ image +href/new page
+4. div tag -->block element
+5. span tag-->inline element
+6.list in html-->> <ul> and<ol>
+7. tables in html <tr>,<td>,colspan,caption<thead><tbody>
+8. forms in html -->input text and password,radio,checbox,sudmit
+9. textarea ,select and options
+10. ifrmage(youtube and website) and video local source(controls +loop)
