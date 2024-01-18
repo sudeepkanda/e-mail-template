@@ -1,0 +1,8 @@
+learned CSS and applied a wide range of attributes
+  I tried many things div centering background image, selector, property, value;
+  if id number we should use [id="123"]{ }
+.class_name{ }
+text-decoration*** color type decoration name;
+font-family: serif, sanserif, cursive is love, fantasy,monoscope;
+spent most of the time in implementation just uploading code that remained at the end 
+  as I deleted most of the code to implement new things
